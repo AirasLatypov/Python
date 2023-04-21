@@ -1,5 +1,4 @@
 
-
 meropriyatie = []
 
 while True:
