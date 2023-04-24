@@ -32,13 +32,3 @@ def repeat_please_n_times(n):           # Задаем функцию.
 repeat_please_n_times(3)                # Задаем колличество 3. Можно любое.
 ```
 ---
-```python
-
-def Student(name, facultet)                                     # Задаем функцию.
-    text = f"привет, {name}! Вы поступили на {facultet}!"       # Наполняем функцию.
-    return text
-
-Student("Marsel", "строительный")                               # Вносим данные.
-                                                                # Привет Marsel! Вы поступили на строительный!
- ```
- ---
